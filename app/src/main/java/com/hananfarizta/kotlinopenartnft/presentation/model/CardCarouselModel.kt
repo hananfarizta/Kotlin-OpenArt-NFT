@@ -1,4 +1,4 @@
-package com.hananfarizta.kotlinopenartnft.model
+package com.hananfarizta.kotlinopenartnft.presentation.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

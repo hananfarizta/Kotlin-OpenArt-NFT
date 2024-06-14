@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Kotlin OpenArt NFT</string>
+    <string name="txt_title1">Silent Wave</string>
+    <string name="txt_title2">Silent Color</string>
+    <string name="txt_title3">George</string>
+    <string name="txt_title4">Mirror</string>
+    <string name="txt_title5">Shedd Aquarium</string>
+    <string name="txt_author1">Pawel Czerwinski</string>
+    <string name="txt_author2">Kennedy Yanko</string>
+    <string name="txt_author3">Holly Herndon</string>
+    <string name="txt_author4">Addie Wagenknecht</string>
+    <string name="txt_author5">Jennifer Mehigan</string>
 </resources>
